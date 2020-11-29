@@ -1,2 +1,2 @@
-# github_jobs
-This is a youtube code-along! Check it out here: https://www.youtube.com/watch?v=lauywdXKEXI
+### Source code for the 100 minute startup
+As seen on https://youtube.com/codedrip
